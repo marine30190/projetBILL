@@ -10,7 +10,7 @@ Ce projet a été établi pour étudier le *Cyprinid HerpesVirus 3* et ses varia
 
 Ce dépôt github contient : 
 - un jupyter notebook qui reprend toutes les étapes des TP et le pipeline d'analyse utilisé pour l'analyse bioinformatique et commenté/détailé.
-- Des exemples de fichiers comme VCF, BAM et BAI. 
+- Des exemples de fichiers comme VCF, BAM, BAI et pycoQC. 
 - Le tableau des résultats bruts et traités.
 -
 
