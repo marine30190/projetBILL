@@ -13,4 +13,5 @@ Ce dépôt github contient :
 - Des exemples de fichiers comme VCF, BAM, BAI et pycoQC. 
 - Le tableau des résultats bruts (355 mutations).
 - Les protocoles d'extraction, de barecoding et de séquençage.
+- Les annexes du rapport du projet.
 
